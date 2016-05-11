@@ -1,0 +1,6 @@
+node_modules
+npm-debug.*
+!/dist/
+/dist/*
+!/dist/index.html
+stats.json
