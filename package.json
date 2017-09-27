@@ -1,6 +1,6 @@
 {
   "name": "react-webpack-boilerplate",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A boilerplate for starting a react based app using webpack",
   "scripts": {
     "build": "webpack",
